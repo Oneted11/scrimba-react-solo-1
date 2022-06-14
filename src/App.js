@@ -33,10 +33,10 @@ function App() {
           </p>
         </div>
         <div className="bottom-bar">
-          <i className="fa fa-twitter-square"></i>
-          <i className=""></i>
-          <i className=""></i>
-          <i className=""></i>
+          <i className="fa fa-twitter-square fa-2x"></i>
+          <i className="fa fa-facebook-square fa-2x"></i>
+          <i className="fa fa-instagram fa-2x"></i>
+          <i className="fa fa-github-square fa-2x"></i>
         </div>
       </div>
     </div>
