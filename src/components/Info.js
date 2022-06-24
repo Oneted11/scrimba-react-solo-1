@@ -7,10 +7,10 @@ export default function Info() {
       <p className="describe">Frontend Developer</p>
       <p className="site">tedmureithi.website</p>
       <section className="buttons">
-        <button>
+        <a className="mail--button" href="mailto:muriithited@gmail.com">
           <i className="fa fa-envelope" />
           Email
-        </button>
+        </a>
         <button className="linkedin">
           <i className="fa fa-linkedin-square"></i> Linkedin
         </button>
